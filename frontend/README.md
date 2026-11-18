@@ -37,7 +37,7 @@ Interface utilisateur de l'application de gestion de tâches **TaskFlow**, conç
 - **Suppression avec confirmation obligatoire (`DeleteConfirmModal`)** conformément à la règle de gestion #7.
 
 ### 4. Résilience & Spécificité Hybride (Exigences 3.4 & Tests T09/T10)
-- **Bannière d'alerte (`ApiStatusBanner`)** : Signalement clair et immédiat à l'utilisateur lorsque le tunnel Cloudflare ou le serveur local (PC 1) est indisponible, avec bouton de réessai.
+- **Bannière d'alerte (`ApiStatusBanner`)** : Signalement clair et immédiat à l'utilisateur lorsque le tunnel Cloudflare ou le PC local est indisponible, avec bouton de réessai.
 
 ---
 
